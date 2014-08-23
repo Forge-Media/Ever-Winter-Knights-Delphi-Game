@@ -1,0 +1,40 @@
+1.) New Game:
+When starting a new game you will be located in Albion, you will be alocated your first quest.
+
+2.) Continue Game:
+When continuing a game you will be located in the same map that you left off in from the previouse quest, you will also be alocated the following quest continuing from the previouse quest.
+
+3.) Controls:
+Movement:
+a  = will make the character move left.
+d = will make the character move right.
+w = will make the character move up.
+s = will make the character move down.
+
+q = will make the character move up-left.
+z = will make the character move down-left. 
+e = will make the character move up-right.
+c = will make the character move down-right. 
+
+i = will make the character pick up item.
+o = will make the character attack.
+	 
+4.) Saving:
+The game has an auto-save feature where at the end of each succesful quest the game wil
+auto-save the players progress. Please note that by exiting the game before completing the active quest will result in the player having to start from the previouse quest.	
+To check when the last save was mad simply enter the quest interface.
+
+5.) Game Rules:
+The game rules are quite basic the player will receive a quest at the start of the game; 
+the player is then required to complete this quest by carrying out a certain task. 
+During each quest a player may obtain new items which will simply increase his stats, 
+the player may also be required to attack an enemy during a quest which will also result 
+in his/her stats increasing. The player’s stat-increases will be determined by their 
+level or an enemy’s level. When the player completes a quest their stats will increase 
+as well as their level and score. By completing all the quests the player will finish 
+the game and their score will be tallied. 
+
+6.) Contact:
+Have fun playing Ever Winter Nights
+http://www.jesararts.net
+Jeremy@jesararts.net
